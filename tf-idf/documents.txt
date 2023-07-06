@@ -1,0 +1,525 @@
+optimal partition of string
+check if word is valid after substitutions
+coin change
+count servers that communicate
+non-decreasing subsequences
+binary tree level order traversal ii
+count days spent together
+remove boxes
+convert bst to greater tree
+validate binary search tree
+queens that can attack the king
+sliding subarray beauty
+sum of floored pairs
+minimum time to make rope colorful
+max area of island
+most profit assigning work
+baseball game
+query kth smallest trimmed number
+count equal and divisible pairs in an array
+longest uncommon subsequence ii
+root equals sum of children
+minesweeper
+minimum time to visit a cell in a grid
+complement of base 10 integer
+form smallest number from two digit arrays
+minimum time visiting all points
+form array by concatenating subarrays of another array
+rearrange words in a sentence
+find kth largest xor coordinate value
+all o`one data structure
+remove stones to minimize the total
+minimum obstacle removal to reach corner
+minimum moves to reach target with rotations
+largest 1-bordered square
+best poker hand
+constrained subsequence sum
+best time to buy and sell stock iii
+satisfiability of equality equations
+find all good strings
+valid triangle number
+image smoother
+bank account summary ii
+fix names in a table
+naming a company
+number of students unable to eat lunch
+find two non-overlapping sub-arrays each with target sum
+snakes and ladders
+median of two sorted arrays
+percentage of letter in string
+validate binary tree nodes
+partition equal subset sum
+minimum operations to make array equal
+most frequent even element
+stone game
+number of substrings with only 1s
+course schedule iv
+count subarrays with fixed bounds
+two furthest houses with different colors
+prime arrangements
+maximum running time of n computers
+memoize ii
+minimum length of string after deleting similar ends
+shortest distance to target string in a circular array
+minimum operations to make a uni-value grid
+design cancellable function
+capital gain/loss
+keep multiplying found values by two
+find duplicate file in system
+sort array by parity
+additive number
+as far from land as possible
+rearrange products table
+flatten binary tree to linked list
+count number of teams
+contains duplicate iii
+previous permutation with one swap
+uncrossed lines
+partition array into disjoint intervals
+matrix cells in distance order
+longest uploaded prefix
+count total number of colored cells
+largest positive integer that exists with its negative
+shortest palindrome
+nested array generator
+product sales analysis i
+longest happy prefix
+minimum cost to reach destination in time
+flip columns for maximum number of equal rows
+insert interval
+running sum of 1d array
+reverse pairs
+number of common factors
+reverse vowels of a string
+allocate mailboxes
+split array largest sum
+minimum time to collect all apples in a tree
+partition array according to given pivot
+my calendar iii
+check if an original string exists given two encoded strings
+number of sets of k non-overlapping line segments
+find all people with secret
+word ladder ii
+sort an array
+check if array pairs are divisible by k
+find pivot index
+kth smallest element in a bst
+arithmetic slices
+top travellers
+replace employee id with the unique identifier
+reorder routes to make all paths lead to the city zero
+asteroid collision
+elimination game
+lowest common ancestor of deepest leaves
+maximum side length of a square with sum less than or equal to threshold
+positions of large groups
+kth smallest product of two sorted arrays
+fair candy swap
+count anagrams
+bulb switcher ii
+number of days between two dates
+design movie rental system
+find if path exists in graph
+concatenation of consecutive binary numbers
+sum of scores of built strings
+most stones removed with same row or column
+rotating the box
+check if string is transformable with substring sort operations
+flatten nested list iterator
+maximum xor after operations
+statistics from a large sample
+neighboring bitwise xor
+palindrome partitioning iv
+binary tree maximum path sum
+string without aaa or bbb
+largest time for given digits
+max dot product of two subsequences
+cut off trees for golf event
+find the difference
+palindrome pairs
+make two arrays equal by reversing subarrays
+tiling a rectangle with the fewest squares
+encode and decode tinyurl
+range addition ii
+merge k sorted lists
+tag validator
+long pressed name
+split with minimum sum
+binary tree cameras
+students and examinations
+copy list with random pointer
+maximum xor of two numbers in an array
+rectangle overlap
+largest rectangle in histogram
+two best non-overlapping events
+global and local inversions
+minimum absolute difference in bst
+arithmetic subarrays
+occurrences after bigram
+check whether two strings are almost equivalent
+largest number after digit swaps by parity
+sliding window median
+reverse only letters
+cache with time limit
+special positions in a binary matrix
+total hamming distance
+verifying an alien dictionary
+distribute repeating integers
+sum of square numbers
+make sum divisible by p
+maximum subarray
+sort array by parity ii
+exam room
+smallest number in infinite set
+find closest number to zero
+relative ranks
+maximum points in an archery competition
+friends of appropriate ages
+cracking the safe
+the dining philosophers
+longest common subpath
+reverse integer
+pascal's triangle
+complex number multiplication
+subsequence with the minimum score
+adding two negabinary numbers
+max sum of rectangle no larger than k
+count integers with even digit sum
+find largest value in each tree row
+counting bits
+largest number
+minimum elements to add to form a given sum
+find subsequence of length k with the largest sum
+degree of an array
+vertical order traversal of a binary tree
+employee importance
+check if binary string has at most one segment of ones
+construct the rectangle
+subarrays with k different integers
+beautiful arrangement
+freedom trail
+maximum number of ways to partition an array
+check if string is a prefix of array
+filter elements from array
+number of ways to wear different hats to each other
+count the number of ideal arrays
+sleep
+number of good pairs
+number of valid words in a sentence
+number of good leaf nodes pairs
+maximum subarray min-product
+maximum consecutive floors without special floors
+combination sum iv
+decode xored array
+word subsets
+number of ways to reconstruct a tree
+valid anagram
+delete duplicate folders in system
+build a matrix with conditions
+the employee that worked on the longest task
+find the town judge
+number of 1 bits
+partition array for maximum sum
+factorial trailing zeroes
+count the digits that divide a number
+valid palindrome ii
+single number ii
+number of restricted paths from first to last node
+find a peak element ii
+partition array such that maximum difference is k
+linked list in binary tree
+longest consecutive sequence
+maximum deletions on a string
+count number of rectangles containing each point
+maximum value of k coins from piles
+arranging coins
+replace words
+find the minimum number of fibonacci numbers whose sum is k
+remove nth node from end of list
+max chunks to make sorted ii
+k radius subarray averages
+last moment before all ants fall out of a plank
+count the number of complete components
+split the array to make coprime products
+count unhappy friends
+describe the painting
+customers who never order
+number of substrings containing all three characters
+kth ancestor of a tree node
+logical or of two binary grids represented as quad-trees
+reach a number
+maximum absolute sum of any subarray
+add edges to make degrees of all nodes even
+minimum swaps to make sequences increasing
+minimize result by adding parentheses to expression
+loud and rich
+eliminate maximum number of monsters
+check if numbers are ascending in a sentence
+minimum number of swaps to make the binary string alternating
+k divisible elements subarrays
+sort array by increasing frequency
+find the winner of an array game
+maximum path quality of a graph
+island perimeter
+maximum score of a good subarray
+triples with bitwise and equal to zero
+rotting oranges
+linked list random node
+maximum average subarray i
+maximum width of binary tree
+actors and directors who cooperated at least three times
+range sum query - mutable
+count odd numbers in an interval range
+sum of distances
+people whose list of favorite companies is not a subset of another list
+valid permutations for di sequence
+buddy strings
+minimum number of people to teach
+leaf-similar trees
+second highest salary
+maximum number of removable characters
+equal sum arrays with minimum number of operations
+max increase to keep city skyline
+rearrange characters to make target string
+single element in a sorted array
+evaluate reverse polish notation
+range frequency queries
+maximum distance between a pair of values
+is subsequence
+4sum ii
+maximum number of groups entering a competition
+swap salary
+maximum nesting depth of the parentheses
+minimum hours of training to win a competition
+design a stack with increment operation
+closest prime numbers in range
+implement stack using queues
+booking concert tickets in groups
+power of heroes
+trim a binary search tree
+spiral matrix
+maximum xor with an element from array
+compare version numbers
+match substring after replacement
+array with elements not equal to average of neighbors
+diameter of binary tree
+minimum number of vertices to reach all nodes
+sort characters by frequency
+find the original array of prefix xor
+number of visible people in a queue
+check if a string can break another string
+number of sub-arrays with odd sum
+count the hidden sequences
+tree of coprimes
+maximize palindrome length from subsequences
+number of adjacent elements with the same color
+maximum earnings from taxi
+minimum number of days to make m bouquets
+minimum number of swaps to make the string balanced
+is graph bipartite?
+longest common subsequence
+stamping the grid
+redistribute characters to make all strings equal
+first completely painted row or column
+queries quality and percentage
+minimum distance between bst nodes
+find greatest common divisor of array
+maximum binary tree
+valid mountain array
+split a string in balanced strings
+minimum score after removals on a tree
+most frequent subtree sum
+word search
+circle and rectangle overlapping
+minimize maximum pair sum in array
+longest zigzag path in a binary tree
+lru cache
+shuffle the array
+grid illumination
+sum of number and its reverse
+maximum swap
+count ways to make array with product
+course schedule ii
+text justification
+capitalize the title
+alphabet board path
+maximum value after insertion
+letter combinations of a phone number
+combinations
+pyramid transition matrix
+count vowels permutation
+find the maximum divisibility score
+maximum performance of a team
+reverse bits
+score of parentheses
+calculate delayed arrival time
+minimum space wasted from packaging
+maximum score of a node sequence
+invert binary tree
+dice roll simulation
+maximum score of spliced array
+number of atoms
+sort list
+valid sudoku
+minimum white tiles after covering with carpets
+sort the students by their kth score
+binary tree pruning
+parsing a boolean expression
+count number of nice subarrays
+remove all occurrences of a substring
+destroying asteroids
+find the prefix common array of two arrays
+construct binary tree from preorder and postorder traversal
+maximum width ramp
+minimum ascii delete sum for two strings
+bitwise and of numbers range
+find score of an array after marking all elements
+number of longest increasing subsequence
+smallest value after replacing with sum of prime factors
+find three consecutive integers that sum to a given number
+department top three salaries
+first letter to appear twice
+my calendar i
+next greater node in linked list
+surface area of 3d shapes
+apply transform over each element in array
+k closest points to origin
+design front middle back queue
+counting words with a given prefix
+advantage shuffle
+find all groups of farmland
+determine if two events have conflict
+delete nodes and return forest
+minimum suffix flips
+print zero even odd
+walking robot simulation ii
+random point in non-overlapping rectangles
+left and right sum differences
+can make arithmetic progression from sequence
+find minimum time to finish all jobs
+minimum window substring
+maximize number of subsequences in a string
+third maximum number
+minimum value to get positive step by step sum
+maximize score after n operations
+set intersection size at least two
+minimum remove to make valid parentheses
+merge similar items
+custom sort string
+find consecutive integers from a data stream
+sqrt(x)
+divide array in sets of k consecutive numbers
+count all possible routes
+tree node
+minimum cost to set cooking time
+construct binary tree from inorder and postorder traversal
+minimum operations to reduce x to zero
+last day where you can still cross
+excel sheet column title
+largest palindromic number
+minimum subsequence in non-increasing order
+delete node in a bst
+reverse nodes in even length groups
+maximum sum bst in binary tree
+number of distinct roll sequences
+minimum area rectangle
+count and say
+largest triangle area
+market analysis i
+short encoding of words
+design bitset
+checking existence of edge length limited paths
+parse lisp expression
+design linked list
+permutation sequence
+find servers that handled most number of requests
+minimum sum of four digit number after splitting digits
+minimum time to finish the race
+minimum number of refueling stops
+stone game viii
+maximum number of balloons
+longer contiguous segments of ones than zeros
+lowest common ancestor of a binary tree
+xor operation in an array
+132 pattern
+project employees i
+count good meals
+maximal score after applying k operations
+number of ways to buy pens and pencils
+insufficient nodes in root to leaf paths
+longest square streak in an array
+search a 2d matrix
+minimum score triangulation of polygon
+two out of three
+shuffle string
+bus routes
+big countries
+vowel spellchecker
+minimum consecutive cards to pick up
+print binary tree
+maximum compatibility score sum
+permutation in string
+lexicographically smallest equivalent string
+best time to buy and sell stock
+minimum non-zero product of the array elements
+minimum operations to make array equal ii
+minimum jumps to reach home
+strange printer
+numbers with repeated digits
+spiral matrix iii
+duplicate emails
+odd even jump
+determine if string halves are alike
+delete duplicate emails
+promise time limit
+maximum candies you can get from boxes
+count good nodes in binary tree
+minimum swaps to arrange a binary grid
+new 21 game
+replace elements in an array
+x of a kind in a deck of cards
+count of matches in tournament
+k-th smallest in lexicographical order
+super egg drop
+alternating digit sum
+create components with same value
+minimum replacements to sort the array
+maximum number of non-overlapping substrings
+calculate digit sum of a string
+longest ideal subsequence
+wiggle subsequence
+maximum sum of two non-overlapping subarrays
+shortest path in binary matrix
+maximum candies allocated to k children
+plus one
+jump game ii
+distinct prime factors of product of array
+sell diminishing-valued colored balls
+employees whose manager left the company
+divide a string into groups of size k
+greatest sum divisible by three
+best time to buy and sell stock with cooldown
+remove duplicates from sorted list
+find the distance value between two arrays
+next greater numerically balanced number
+map of highest peak
+consecutive characters
+number of good paths
+longest increasing subsequence ii
+edit distance
+longest word in dictionary through deleting
+number of strings that appear as substrings in word
+powerful integers
+count good triplets in an array
+subsets
+sum of beauty of all substrings
+triangle
+largest component size by common factor
+minimum operations to make the array k-increasing
+maximize grid happiness
+maximum profit in job scheduling
+can you eat your favorite candy on your favorite day?
+reorganize string
+gcd sort of an array
+fizz buzz multithreaded
+shortest path visiting all nodes
